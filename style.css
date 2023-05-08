@@ -19,3 +19,7 @@ canvas{
     border: 5px solid red;
     border-radius: 20px;
 }
+
+#song_name{
+    margin: -10px;
+}
